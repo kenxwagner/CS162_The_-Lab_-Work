@@ -1,0 +1,8 @@
+------ Build started: Project: Lab4, Configuration: Debug Win32 ------
+Compiling...
+Lab4ProgramKenWagner.cpp
+h:\c++ class 162\the lab work\lab4\lab4\lab4programkenwagner.cpp(19) : error C2653: 'Beatles' : is not a class or namespace name
+h:\c++ class 162\the lab work\lab4\lab4\lab4programkenwagner.cpp(21) : error C2065: 'frontMan1' : undeclared identifier
+Build log was saved at "file://h:\C++ Class 162\The Lab Work\Lab4\Lab4\Debug\BuildLog.htm"
+Lab4 - 2 error(s), 0 warning(s)
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
